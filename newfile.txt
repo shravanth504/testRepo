@@ -1,1 +1,3 @@
-Hello, new file.txt 
+Hello, new file.txt
+
+added some changes
